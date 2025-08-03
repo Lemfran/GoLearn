@@ -22,6 +22,7 @@
 123456 FundamentalsOfDataStructure 76.00
 057618 OpereationSystem 76.00
 */
+
 package main 
 
 import "fmt"

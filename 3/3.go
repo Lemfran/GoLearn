@@ -18,6 +18,7 @@
 
 sum = 0.893012
 */
+
 package main
 
 import "fmt"
